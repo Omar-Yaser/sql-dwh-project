@@ -1,5 +1,5 @@
 /*
-Storde Procedure : Loading Bronze Layer
+Stored Procedure : Loading Bronze Layer
 ---------------------------------------------------------------------
 Script Purpose :
  - This SP loads data from external files (6 CSV Files) into 'Bronze' Schema
