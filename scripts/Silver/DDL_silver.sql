@@ -1,4 +1,13 @@
-
+/*
+------------------------------------------------------------------------------------------------
+DDL Script : Silver Tables 
+------------------------------------------------------------------------------------------------
+Script Purpose :
+ - This Script creates 6 tables in schema ('silver')
+ - 3 tables for crm files 
+ - 3 tables for erp files
+------------------------------------------------------------------------------------------------
+*/
 create table silver.crm_cust_info (
 cst_id int ,
 cst_key nvarchar(50),
