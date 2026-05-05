@@ -4,8 +4,8 @@ DDL Script : Bronze Tables
 ------------------------------------------------------------------------------------------------
 Script Purpose :
  - This Script creates 6 tables in schema ('bronze')
- - 3 tables for crm file 
- - 3 tables for erp file
+ - 3 tables for crm files
+ - 3 tables for erp files
 ------------------------------------------------------------------------------------------------
 */
 
